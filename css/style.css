@@ -1,0 +1,22 @@
+body{
+    font-size: 24px;
+    font-style: oblique;
+    background-color: lightgoldenrodyellow;
+    border-style: solid;
+    border-width: 6px;
+}
+h1 {
+    font-size: 48px;
+}
+h3 {
+    font-size: 38px;
+}
+h4 {
+    font-size: 38px;
+}
+h5 {
+    font-size: 36px;
+}
+h6 {
+    font-size: 28px;
+}
